@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="EMP">
+	<xs:complexType>
+		<xs:sequence>
+		<xs:element name="note" maxOccurs="unbounded">
+			<xs:complexType>
+			
+			<xs:all>
+			<xs:element name="EMPN" type="xs:integer"/>
+			<xs:element name="ENAME" type="xs:string"/>
+			<xs:element name="JOB" type="xs:string"/>
+			<xs:element name="MGR" type="xs:string"/>
+			<xs:element name="HIREDATE" type="xs:string"/>
+			<xs:element name="SAL" type="xs:string"/>
+			<xs:element name="COMM" type="xs:string"/>
+			<xs:element name="DEPTNO" type="xs:string"/>
+			</xs:all>
+			</xs:complexType>
+			
+		</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+</xs:element>
+</xs:schema>

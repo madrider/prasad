@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<note priority="urgent"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="Notes.xsd">
+	<to>vijay@gmail.com</to>
+	<from>ggg@gmail.com</from>
+	<message>
+	haii friends
+	</message>
+</note>

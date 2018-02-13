@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Employees>
+	<Employee>
+	<name>prasad</name>
+	<age>25</age>
+	<lot>.net</lot>
+	</Employee>
+	<Employee>
+	<name>prasanthi</name>
+	<age>35</age>
+	<lot>java</lot>
+	</Employee>
+	<Employee>
+	<name>pradeep</name>
+	<age>45</age>
+	<lot>sap</lot>
+	</Employee>
+	<Employee>
+	<name>ravi</name>
+	<age>21</age>
+	<lot>oracle</lot>
+	</Employee>
+</Employees>
